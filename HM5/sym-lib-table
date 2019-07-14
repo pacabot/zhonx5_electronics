@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name u_00xx)(type Legacy)(uri /home/zhonx/Bureau/u_00xx.lib)(options "")(descr ""))
+  (lib (name HM5-rescue)(type Legacy)(uri ${KIPRJMOD}/HM5-rescue.lib)(options "")(descr ""))
+)
