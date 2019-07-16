@@ -1,4 +1,4 @@
-16548178476258318
+16556016571757318
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -44709,6 +44709,13 @@ XO_FC-12M
 2
 2
 DVB_Connectors
+52435-3071
+Connector ZIF FFC/FPC 30pins
+FFC FPC ZIF
+0
+36
+31
+DVB_Connectors
 BCS-103-L-D-HE
 
 
@@ -45115,6 +45122,13 @@ TD5640_DF30
 32
 32
 DVB_Connectors
+TMMH_105_01_L_D
+
+
+0
+10
+10
+DVB_Connectors
 USB_Micro-AB
 Micro USB B receptable with flange, bottom-mount, SMD, right-angle (http://www.molex.com/pdm_docs/sd/473460001_sd.pdf)
 Micro B USB SMD
@@ -45206,6 +45220,20 @@ Diode 1206
 2
 2
 DVB_Diodes
+D_MBS-1
+
+
+0
+4
+4
+DVB_Diodes
+D_POWERDI5
+Diode SMC Standard = DO-214AB
+Diode SMC Standard DO-214AB
+0
+3
+2
+DVB_Diodes
 D_SMA
 Diode SMA
 Diode SMA
@@ -45254,13 +45282,6 @@ Diode SOD523
 0
 2
 2
-DVB_Diodes
-MBS-1
-
-
-0
-4
-4
 DVB_Displays
 OLED128x64-0P96
 
@@ -45274,21 +45295,21 @@ OLED128x64-1P3
 
 0
 36
-30
+31
 DVB_Displays
 OLED128x64-1P3_HOLE
 
 
 0
 36
-30
+31
 DVB_Displays
 OLED128x128-1P5
 
 
 0
 36
-30
+31
 DVB_Empty
 Empty
 
@@ -45381,6 +45402,13 @@ L_4020-Coilcraft
 2
 2
 DVB_Inductors
+L_4020-Wurth
+
+
+0
+2
+2
+DVB_Inductors
 L_4030-Coilcraft
 
 
@@ -45415,6 +45443,13 @@ inductor wurth hci smd
 0
 2
 2
+DVB_LCC
+LCC_HJ-580
+
+
+0
+23
+23
 DVB_LCC
 LCC_HL8548
 
